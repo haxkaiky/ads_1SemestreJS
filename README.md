@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/102567706/186782073-1480ceee-00a8-41b2-b08d-0e2bebf6a0e0.png"  />
+  <img height="400" src="https://user-images.githubusercontent.com/102567706/186782246-ef758aaa-43cf-4cdb-b1e3-a32588259e4d.png"  />
 </div>
 
 # Faculdade - 1 Semestre.
